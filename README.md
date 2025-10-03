@@ -57,3 +57,9 @@ Diamater: 36mm
 Holes for screwes: 6 x M3
 
 
+
+# OPEN DIFFERENTIAL 
+<img width="741" height="656" alt="image" src="https://github.com/user-attachments/assets/527f8838-1488-467e-9632-4557be677847" />
+
+IN PROGRESS
+
